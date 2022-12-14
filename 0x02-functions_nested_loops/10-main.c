@@ -1,5 +1,7 @@
 #include "main.h"
 
+#include <stdio.h>
+
 
 
 /**
@@ -15,6 +17,15 @@
 int main(void)
 
 {
-	pint_alphabet ();
-	return (0);
+
+	    int n;
+
+
+
+	        n = add(89, 9);
+
+		    printf("%d\n", n);
+
+		        return (0);
+
 }

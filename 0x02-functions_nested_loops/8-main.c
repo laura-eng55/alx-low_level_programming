@@ -15,6 +15,9 @@
 int main(void)
 
 {
-	pint_alphabet ();
-	return (0);
+
+	    jack_bauer();
+
+	        return (0);
+
 }
