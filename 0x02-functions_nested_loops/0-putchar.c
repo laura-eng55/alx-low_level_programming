@@ -3,45 +3,47 @@
 
 
 /**
-
- * print_alphabet_x10 - print a - z ten times
-
  *
+ *  * main - Entry point
+ *
+ *   *
+ *
+ *    * Return: Always 0 (Success)
+ *
+ *     */
 
- */
+
+
+int main(void)
 
 
 
-void print_alphabet_x10(void)
-  
-
-  
 {
-  
-  int i;
-  
-  char j;
-  
 
-  
-  for (i = 0; i < 10; i++)
-    
-    {
-      
-      for (j = 'a'; j <= 'z'; j++)
-	
-	{
-	  
-	  _putchar(j);
-	  
-	}
-      
 
-      
-      _putchar('\n');
-      
-    }
-  
 
-  
+		_putchar('_');
+
+			_putchar('p');
+
+				_putchar('u');
+
+					_putchar('t');
+
+						_putchar('c');
+
+							_putchar('h');
+
+								_putchar('a');
+
+									_putchar('r');
+
+										_putchar('\n');
+
+
+
+											return (0);
+
+
+
 }
